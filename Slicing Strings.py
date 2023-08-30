@@ -13,3 +13,4 @@ print(strMyText[3:])
 #Negative Indexing
 strMyText = "Hello Canada!"
 print(strMyText[-5:-2])
+
