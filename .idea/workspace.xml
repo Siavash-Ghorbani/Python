@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e338d1e-e9cd-4be9-8de8-bc57db18bcfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/String Concatenation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python - Strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Slicing Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Slicing Strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,9 @@
       <option name="presentableId" value="Default" />
       <updated>1693077510991</updated>
       <workItem from="1693077512067" duration="3557000" />
-      <workItem from="1693405685266" duration="3100000" />
+      <workItem from="1693405685266" duration="3940000" />
+      <workItem from="1693674619830" duration="1044000" />
+      <workItem from="1693676079159" duration="1543000" />
     </task>
     <servers />
   </component>
@@ -67,6 +68,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$String_Concatenation.coverage" NAME="String Concatenation Coverage Results" MODIFIED="1693408810239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Python___Strings.coverage" NAME="Python - Strings Coverage Results" MODIFIED="1693690470786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Modify_Strings.coverage" NAME="Modify Strings Coverage Results" MODIFIED="1693407162360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1693078011258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Slicing_Strings.coverage" NAME="Slicing Strings Coverage Results" MODIFIED="1693407564296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
