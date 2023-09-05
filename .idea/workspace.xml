@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e338d1e-e9cd-4be9-8de8-bc57db18bcfd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/List Comprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sort Lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python - Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python - Strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
       <workItem from="1693674619830" duration="1044000" />
       <workItem from="1693676079159" duration="1900000" />
       <workItem from="1693691473825" duration="276000" />
-      <workItem from="1693924237778" duration="6254000" />
+      <workItem from="1693924237778" duration="8667000" />
     </task>
     <servers />
   </component>
@@ -77,5 +76,6 @@
     <SUITE FILE_PATH="coverage/Python$Test1.coverage" NAME="Test1 Coverage Results" MODIFIED="1693078011258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$Slicing_Strings.coverage" NAME="Slicing Strings Coverage Results" MODIFIED="1693407564296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python$List_Comprehension.coverage" NAME="List Comprehension Coverage Results" MODIFIED="1693939659203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python$Sort_Lists.coverage" NAME="Sort Lists Coverage Results" MODIFIED="1693948997637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
